@@ -1,4 +1,4 @@
-@doop/service-{{FIXME}}
+@doop/service-log-change
 ==================
 
-A {{FIXME}} service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
+A change logging service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
