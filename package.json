@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-log-change",
+  "name": "@doop/log-change",
   "version": "1.0.0",
   "description": "A change logging service for the Doop framework",
   "repository": {
