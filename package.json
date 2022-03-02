@@ -4,7 +4,7 @@
   "description": "A change logging service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-log-change.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-log-change.git"
   },
   "keywords": [
     "doop"
@@ -12,10 +12,7 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-log-change/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-log-change/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-log-change#readme",
-  "workspaces": [
-    "../*"
-  ]
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-log-change#readme"
 }
